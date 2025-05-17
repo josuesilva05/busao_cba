@@ -1,0 +1,3 @@
+Eu tenho uma tela chamada HomeScreen.jsx, nela há toda uma estrutura que chama algumas rotas para outros componentes, mas os mesmos ainda precisam ser implementados. Sabendo disso, crie todos os componentes faltosos que o componente HomeScreen tenta chamar. No projeto Expo, você deve usar as ferramentas TailwindCSS e FontAwersome, que já estão instaladas corretamente.
+Implemente os componentes de forma criativa, aproveitando os dados dos mocks. Siga a paleta de cores da HomeScreen. Crie algumas animações sutís também.
+Crie todos os componentes no diretóio app, pois o projeto está pegando o nome de cada arquivo como uma rota. 
